@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Assigning a value to a variable
-name="John Doe"
+name="santhosh"
 
 # Accessing the variable
 echo "Hello, $name!"
